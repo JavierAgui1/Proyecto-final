@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Tech Hoy</title>
+    <link>https://noticiastechhoy.com</link>
+    <description>Últimas novedades del mundo de la tecnología</description>
+    <language>es-es</language>
+    <pubDate>Sun, 15 Jun 2025 10:00</pubDate>
+
+    <item>
+      <title>Apple presenta iOS 19</title>
+      <link>https://noticiastechhoy.com/apple-ios19</link>
+      <description>La nueva versión del sistema operativo incluye mejoras en IA y privacidad.</description>
+      <pubDate>Sat, 14 Jun 2025 09:00</pubDate>
+      <guid>https://noticiastechhoy.com/apple-ios19</guid>
+    </item>
+
+    <item>
+      <title>Google lanza Gemini OS</title>
+      <link>https://noticiastechhoy.com/google-gemini-os</link>
+      <description>Un sistema operativo diseñado para dispositivos IA.</description>
+      <pubDate>Fri, 13 Jun 2025 12:30</pubDate>
+      <guid>https://noticiastechhoy.com/google-gemini-os</guid>
+    </item>
+
+    <item>
+      <title>AMD revela nuevos chips Ryzen AI</title>
+      <link>https://noticiastechhoy.com/amd-ryzen-ai</link>
+      <description>Chips optimizados para procesamiento de lenguaje natural.</description>
+      <pubDate>Thu, 12 Jun 2025 14:15</pubDate>
+      <guid>https://noticiastechhoy.com/amd-ryzen-ai</guid>
+    </item>
+
+    <item>
+      <title>Microsoft integra Copilot en Windows 12</title>
+      <link>https://noticiastechhoy.com/windows12-copilot</link>
+      <description>Copilot será parte integral del sistema, facilitando tareas diarias.</description>
+      <pubDate>Wed, 11 Jun 2025 10:45</pubDate>
+      <guid>https://noticiastechhoy.com/windows12-copilot</guid>
+    </item>
+
+    <item>
+      <title>OpenAI lanza GPT-5.5</title>
+      <link>https://noticiastechhoy.com/openai-gpt55</link>
+      <description>La nueva versión mejora la comprensión contextual y razonamiento lógico.</description>
+      <pubDate>Tue, 10 Jun 2025 08:20</pubDate>
+      <guid>https://noticiastechhoy.com/openai-gpt55</guid>
+    </item>
+  </channel>
+</rss>
